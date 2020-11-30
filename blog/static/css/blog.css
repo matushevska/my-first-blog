@@ -1,7 +1,8 @@
 .page-header {
-    background-color: #ff9400;
-    margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    background-color: #8A2BE2;
+    margin-top: 10;
+	text-align: center;
+    padding: 10px ;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -15,7 +16,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Time News Romans' , cursive;
 }
 
 .date {
